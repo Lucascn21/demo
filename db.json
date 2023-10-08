@@ -1,4 +1,3 @@
-{
   [
     {
       id: 1,
@@ -36,5 +35,4 @@
       username: "test6Username",
       password: "test6Password",
     },
-  ];
-}
+  ]
